@@ -1,4 +1,4 @@
-#scrapper
+# scrapper
 
 This project extracts data from Earth911's public recycling search tool and classifies accepted materials into structured recycling categories using Google Gemini 1.5 Flash.
 
