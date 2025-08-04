@@ -1,0 +1,194 @@
+[
+    {
+        "business_name": "New York City Bulk Item Curbside Program",
+        "last_update_date": "2016-02-23",
+        "street_address": "New York, NY 10001",
+        "materials_category": [
+            "Other Important Materials"
+        ],
+        "materials_accepted": [
+            "Air Conditioners",
+            "Barbeque Grills",
+            "Carpet",
+            "Carpet Padding",
+            "Dehumidifiers",
+            "Dishwashers",
+            "Freezers",
+            "Heaters",
+            "Household Furniture",
+            "Humidifiers",
+            "Lumber",
+            "Refrigerators",
+            "Stoves",
+            "Washer/Dryers"
+        ]
+    },
+    {
+        "business_name": "IMobile LLC",
+        "last_update_date": "2012-02-29",
+        "street_address": "370 7th Ave, New York, NY 10001",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Cell Phones",
+            "Cell Phones"
+        ]
+    },
+    {
+        "business_name": "The 4th Bin",
+        "last_update_date": "2010-02-17",
+        "street_address": "307 7th Ave, New York, NY 10001",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Cell Phones, Smartphones",
+            "Computers, Laptops, Tablets",
+            "Computer Peripherals (Keyboards, Mice, Cables, etc.)",
+            "Monitors, TVs (CRT & Flat Screen)",
+            "Monitors, TVs (CRT & Flat Screen)",
+            "Audio/Video Equipment",
+            "Printers, Copiers, Fax Machines"
+        ]
+    },
+    {
+        "business_name": "Sprint Store",
+        "last_update_date": "2013-07-30",
+        "street_address": "126 W 34th St, New York, NY 10001",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Cell Phones",
+            "Cell Phones"
+        ]
+    },
+    {
+        "business_name": "Willoughby's",
+        "last_update_date": "2011-02-11",
+        "street_address": "298 5th Ave, New York, NY 10001",
+        "materials_category": [
+            "Electronics",
+            "Batteries"
+        ],
+        "materials_accepted": [
+            "Cell Phones",
+            "Computers, Laptops, Tablets",
+            "Gaming Consoles",
+            "Lithium-ion Batteries",
+            "MP3 Players",
+            "Nickel-cadmium Batteries",
+            "Cell Phones"
+        ]
+    },
+    {
+        "business_name": "Cartridge World",
+        "last_update_date": "2013-05-15",
+        "street_address": "225 West 23rd Street, New York, NY 10011",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Inkjet Cartridges",
+            "Toner Cartridges"
+        ]
+    },
+    {
+        "business_name": "ProTek Recycling Inc.",
+        "last_update_date": "2013-03-25",
+        "street_address": "276 5th Avenue, New York, NY 10001",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Audio/Video Equipment",
+            "Computers, Laptops, Tablets",
+            "Monitors, TVs (CRT & Flat Screen)",
+            "Cell Phones, Smartphones",
+            "Printers, Copiers, Fax Machines",
+            "Gaming Consoles",
+            "Computer Peripherals (Keyboards, Mice, Cables, etc.)",
+            "Audio Equipment",
+            "Blu-Ray Players",
+            "Boomboxes",
+            "Cables",
+            "Calculators",
+            "Cassette Players",
+            "CD Players",
+            "Cell Phone Accessories",
+            "Cell Phones",
+            "Computer Peripherals - External",
+            "Computer Peripherals - Internal",
+            "CRT Computer Monitors",
+            "CRT Televisions",
+            "Desktop Computers",
+            "Digital Cameras",
+            "DVD Players",
+            "Electronic Servers",
+            "Game Consoles",
+            "GPS Systems",
+            "Hard Drives",
+            "Home Electronics",
+            "Laptop Computers",
+            "LCD Computer Monitors",
+            "LCD Televisions",
+            "MP3 Players",
+            "Office Machines",
+            "Pagers",
+            "Paper Shredders",
+            "Printers",
+            "Projectors",
+            "Receivers",
+            "Record Players",
+            "Tablets",
+            "Telephones",
+            "Television Accessories",
+            "Two-Way Radios",
+            "Typewriters",
+            "VCRs"
+        ]
+    },
+    {
+        "business_name": "Tekserve",
+        "last_update_date": "2011-01-23",
+        "street_address": "119 W 23rd St, New York, NY 10011",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Computers, Laptops, Tablets",
+            "Monitors, TVs (CRT & Flat Screen)",
+            "Printers, Copiers, Fax Machines"
+        ]
+    },
+    {
+        "business_name": "Staples",
+        "last_update_date": "2013-09-04",
+        "street_address": "500 8th Avenue, New York, NY 10018",
+        "materials_category": [
+            "Electronics",
+            "Batteries"
+        ],
+        "materials_accepted": [
+            "Cell Phones, Smartphones",
+            "Computer Peripherals (Keyboards, Mice, Cables, etc.)",
+            "Monitors, TVs (CRT & Flat Screen)",
+            "Computers, Laptops, Tablets",
+            "Lithium-ion Batteries",
+            "Nickel-cadmium Batteries"
+        ]
+    },
+    {
+        "business_name": "Cartridge World",
+        "last_update_date": "2013-05-15",
+        "street_address": "155 West 35th Street, New York, NY 10001",
+        "materials_category": [
+            "Electronics"
+        ],
+        "materials_accepted": [
+            "Inkjet Cartridges",
+            "Toner Cartridges"
+        ]
+    }
+]
