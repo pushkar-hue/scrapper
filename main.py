@@ -39,12 +39,15 @@ try:
         second_line_address = browser.find_element(By.CSS_SELECTOR, 'p.addr:nth-child(3)').text
         address = f"{first_line_address}, {second_line_address}"
 
+        material_elements = browser.find_elements(By.CSS_SELECTOR, 'span.material.no-link')
+
         if not first_line_address:
             address = second_line_address  # Fallback if first line is empty
 
         data['buisness_name'] = clean_data(buisness_name)
         data['last_updated'] = clean_data(last_updated.replace("Back", "").strip())
         data['address'] = clean_data(address)
+        data['materials_accepted'] = [clean_data(material.text) for material in material_elements]
 
         print("Page title:", browser.title)
         extracted_data.append(data)
@@ -52,7 +55,7 @@ try:
     
     if extracted_data:
         with open('extracted_data.csv', 'w', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=['buisness_name', 'last_updated', 'address'])
+            writer = csv.DictWriter(f, fieldnames=['buisness_name', 'last_updated', 'address', 'materials_accepted'])
             writer.writeheader()
             writer.writerows(extracted_data)
         print("Data saved successfully to extracted_data.csv")
@@ -61,6 +64,7 @@ try:
             print("Business Name:", data['buisness_name'])
             print("Last Updated:", data['last_updated'])
             print("Address:", data['address'])
+            print("Materials Accepted:", ", ".join(data['materials_accepted']))
             print("-" * 40)
 
 finally:
